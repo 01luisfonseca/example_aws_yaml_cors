@@ -102,3 +102,20 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Custom restrictions
+.aws-sam
+package-lock.json
